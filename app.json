@@ -1,0 +1,53 @@
+{
+  "id": "acab4b5a-af73-4b8b-bb2d-797a949cd4fb",
+  "name": "Acumens Mobile Sales, CRM & Customer Portal",
+  "publisher": "SBC Dynamics ERP",
+  "version": "25.1023.0.01",
+   "brief": "Optimize CRM workflows with Acumens CRM Enhancements",
+  "description": "The Acumens CRM Enhancements solution enhance the Customer Relationship Management (CRM) capabilities of Microsoft Dynamics 365 Business Central. It provides features to enhance salesperson login, categorize contacts, streamline interactions and opportunities, improve sales quote processing, and enable easy email communications. It provides insights to enable data driven decision making. Acumens CRM is tailored for businesses looking to streamline and optimize their CRM processes",
+  "privacyStatement": "https://www.sbcdynamicserp.com/microsoft-dynamics-nav-bc-addons-and-extensions/",
+  "EULA": "https://www.sbcdynamicserp.com/microsoft-dynamics-nav-bc-addons-and-extensions/",
+  "help": "https://www.sbcdynamicserp.com/support/?crmenhancementsapp=yes",
+  "url": "https://www.sbcdynamicserp.com/acumens-crm-enhancements/",
+  "contextSensitiveHelpUrl": "https://www.sbcdynamicserp.com/microsoft-dynamics-nav-bc-addons-and-extensions/",
+  "logo": "./src/Media/Acumens CRM Enhancements.png",
+
+  "dependencies": [ {
+    "id": "ad778411-e5f3-4d7e-9077-37cde7758cdb",
+    "name": "Acumens Cash Flow Solutions",
+    "version": "22.1023.1.68",
+    "publisher": "SBC Dynamics ERP"
+  },
+{  
+  "id": "11ca1180-8367-4ba9-b280-9ee304870c07",
+  "name": "Acumens CRM Enhancements (WW)",
+  "publisher": "SBC Dynamics ERP",
+  "version": "25.1023.0.56"
+},
+{
+  "id": "b9969e03-2391-4ffc-aa5d-391f32bc324a",
+  "name": "Acumens NA Localization for Acumens CRM Enhancements (NA)",
+  "publisher": "SBC Dynamics ERP",
+  "version": "25.1023.0.03"
+} ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "target": "Cloud",
+  "idRanges": [
+    {
+      "from": 14280400,
+      "to": 14280420
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
