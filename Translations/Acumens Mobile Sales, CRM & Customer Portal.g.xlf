@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Acumens Mobile Sales, CRM &amp; Customer Portal">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 630288456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Relations Manager</source>
+          <note from="Developer" annotates="general" priority="2">Use same translation as 'Profile Description' (if applicable)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2380441823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Forms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4280600818 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Custom Products Forms action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Custom Products Forms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4280600818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Products Forms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Custom Products Forms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3448105182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Sample Request Forms action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sample Request Forms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3448105182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample Request Forms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sample Request Forms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 710030472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Sourcing Request Forms action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sourcing Request Forms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 710030472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sourcing Request Forms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sourcing Request Forms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2002014462 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Special Order Forms action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Special Order Forms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2002014462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Special Order Forms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Special Order Forms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4010192164 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Transfer Order Forms action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Transfer Order Forms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4010192164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order Forms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Transfer Order Forms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3804960800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new contact. Contacts are persons at your business partners that you use to communicate business activities with or that you target marketing activities towards.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action NewContact - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3804960800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action NewContact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4071922695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the sales opportunities that are handled by salespeople for the contact. Opportunities must involve a contact and can be linked to campaigns.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action NewOpportunity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4071922695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opportunity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action NewOpportunity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1856194291 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new sales credit memo to revert a posted sales invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Credit Memo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1856194291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4181590817 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new invoice for the sales of items or services. Invoice quantities cannot be posted partially.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Invoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4181590817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1333397436 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new sales order for items or services.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1333397436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2984996136 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new sales quote to offer items or services to a customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Quote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2984996136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Quote</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Quote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3714254622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensate your customers for incorrect or damaged items that you sent to them and received payment for. Sales return orders enable you to receive items from multiple sales documents with one sales return, automatically create related sales credit memos or other return-related documents, such as a replAQDment sales order, and support warehouse documents for the item handling. Note: If an erroneous sale has not been paid yet, you can simply cancel the posted sales invoice to automatically revert the financial transaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Return Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3714254622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Return Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Return Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1527525125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit information about the sales people that work for you and which customers they are assigned to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action58 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1527525125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salespersons</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action58 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1692444235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit Information about AAPB Contacts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action ActionName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contacts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3606140129 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the customers that you trade with. From each customer card, you can open related information, such as sales statistics and ongoing orders, and you can define special prices and line discounts that you grant if certain conditions are met.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3606140129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1554554962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the products that you trade in. The item card can be of type Inventory or Service to specify if the item is a physical unit or a labor time unit. Here you also define if items in inventory or on incoming orders are automatically reserved for outbound documents and whether order tracking links are created between demand and supply to reflect planning actions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Items - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1554554962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2602958331 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Master Orders action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Master Sales Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2602958331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Master Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Master Sales Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 516772649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the sales opportunities that are handled by salespeople for the contact. Opportunities must involve a contact and can be linked to campaigns.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Opportunities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 516772649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opportunities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Opportunities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3434938165 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Posted Sales Invoices action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Posted Sales Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3434938165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Posted Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2992187499 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revert the financial transactions involved when your customers want to cancel a purchase or return incorrect or damaged items that you sent to them and received payment for. To include the correct information, you can create the sales credit memo from the related posted sales invoice or you can create a new sales credit memo with copied invoice information. If you need more control of the sales return process, such as warehouse documents for the physical handling, use sales return orders, in which sales credit memos are integrated. Note: If an erroneous sale has not been paid yet, you can simply cancel the posted sales invoice to automatically revert the financial transaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Credit Memos E - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2992187499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Credit Memos E - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 5595693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the different sales cycles that you use to manage sales opportunities.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Cycles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 5595693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Cycles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Cycles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1693997414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register your sales to customers and invite them to pay according to the delivery and payment terms by sending them a sales invoice document. Posting a sales invoice registers shipment and records an open receivable entry on the customer's account, which will be closed when payment is received. To manage the shipment process, use sales orders, in which sales invoicing is integrated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1693997414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 69955983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record your agreements with customers to sell certain products on certain delivery and payment terms. Sales orders, unlike sales invoices, allow you to ship partially, deliver directly from your vendor to your customer, initiate warehouse handling, and print various customer-facing documents. Sales invoicing is integrated in the sales order process.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 69955983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 734185571 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make offers to customers to sell certain products on certain delivery and payment terms. While you negotiate with a customer, you can change and resend the sales quote as much as needed. When the customer accepts the offer, you convert the sales quote to a sales invoice or a sales order in which you process the sale.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Quotes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 734185571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Quotes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3408681358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensate your customers for incorrect or damaged items that you sent to them and received payment for. Sales return orders enable you to receive items from multiple sales documents with one sales return, automatically create related sales credit memos or other return-related documents, such as a replAQDment sales order, and support warehouse documents for the item handling. Note: If an erroneous sale has not been paid yet, you can simply cancel the posted sales invoice to automatically revert the financial transaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Return Orders E - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3408681358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Return Orders E - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 126063057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the tasks List for Salespersons.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Task List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 126063057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Task List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4201773078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1814405003 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find entries and documents that exist for the document number and posting date on the selected document. (Formerly this action was named Navigate.)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Navi&amp;gate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1814405003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find entries...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Navi&amp;gate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 352260082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Prices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1887374556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define how to set up sales price agreements. These sales prices can be for individual customers, for a group of customers, for all customers, or for a campaign.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Prices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1887374556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Prices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales &amp;Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3685446922 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit sales line discounts that you grant when certain conditions are met, such as customer, quantity, or ending date. The discount agreements can be for individual customers, for a group of customers, for all customers or for a campaign.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Line &amp;Discounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3685446922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Line &amp;Discounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Line &amp;Discounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2311124359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage sales prices for individual customers, for a group of customers, for all customers, or for a campaign.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Price &amp;Worksheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2311124359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Price &amp;Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Price &amp;Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3092092583 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customer - &amp;Order Summary - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3092092583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer - &amp;Order Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customer - &amp;Order Summary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3179456745 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View which customers purchase the most or owe the most in a selected period. Only customers that have either purchases during the period or a balance at the end of the period will be included.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customer - &amp;Top 10 List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3179456745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer - &amp;Top 10 List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customer - &amp;Top 10 List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2671802005 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed information about sales to your customers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action S&amp;ales Statistics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2671802005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>S&amp;ales Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action S&amp;ales Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 810681621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View amounts for sales, profit, invoice discount, and payment discount, as well as profit percentage, for each salesperson for a selected period. The report also shows the adjusted profit and adjusted profit percentage, which reflect any changes to the original costs of the items in the sales.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Salesperson - Sales &amp;Statistics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 810681621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson - Sales &amp;Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Salesperson - Sales &amp;Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1224015832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Setups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 209964017 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>view or Create Contact Email Templates to apply to emails</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Email Templates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 209964017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Email Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1396255989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Forms E-Mail Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Forms E-Mail Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Acumens CRM Setup action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens CRM Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2230052662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administration Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Administration Sales/Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2616724012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit invoice discounts that you grant to certain customers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Cust. Invoice Discounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2616724012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Invoice Discounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Cust. Invoice Discounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3728815471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of your customer price groups.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customer Price Groups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3728815471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Price Groups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Customer Price Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 986584982 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit discount group codes that you can use as criteria when you grant special discounts to customers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Item Disc. Groups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 986584982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Disc. Groups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Item Disc. Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1746372166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 634852766 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View sales amounts in G/L accounts by their dimension values and other filters that you define in an analysis view and then show in a matrix window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Analysis by Dimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 634852766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Analysis by Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Analysis by Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 677836217 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze the dynamics of your sales according to key sales performance indicators that you select, for example, sales turnover in both amounts and quantities, contribution margin, or progress of actual sales against the budget. You can also use the report to analyze your average sales prices and evaluate the sales performance of your sales force.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Analysis Reports - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 677836217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Analysis Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Analysis Reports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1527646434 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter item sales values of type amount, quantity, or cost for expected item sales in different time periods. You can create sales budgets by items, customers, customer groups, or other dimensions in your business. The resulting sales budgets can be reviewed here or they can be used in comparisons with actual sales data in sales analysis reports.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Budgets - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 1527646434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Budgets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Sales Budgets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3381351663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the posting history for sales, shipments, and inventory.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Posted Documents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 3381351663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Posted Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 902573977 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted sales invoices.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action32 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 902573977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action32 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2177967211 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted sales credit memos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action34 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2177967211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action34 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2610663038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted sales shipments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action40 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 2610663038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Action40 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 761779018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the list of issued finance charge memos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Issued Finance Charge Memos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 761779018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued Finance Charge Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Issued Finance Charge Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4091799740 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the list of issued reminders.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Issued Reminders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 4091799740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued Reminders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Issued Reminders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 699376808 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted return receipts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Posted Return Receipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 630288456 - Action 699376808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Return Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD CRM Sales Team RC - Action Posted Return Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2950100836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens CRM Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile AQD Sales Team RC - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
