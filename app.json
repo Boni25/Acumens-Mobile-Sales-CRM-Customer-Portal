@@ -1,10 +1,10 @@
 {
   "id": "acab4b5a-af73-4b8b-bb2d-797a949cd4fb",
-  "name": "Acumens Mobile Sales, CRM & Customer Portal",
+  "name": "Acumens Mobile Salesman, CRM & Customer Portal",
   "publisher": "SBC Dynamics ERP",
-  "version": "25.1023.0.03",
+  "version": "25.1023.0.09",
    "brief": "Provides an enhanced profile for sales persons",
-  "description": "The Acumens Mobile Sales, CRM & Customer Portal solution provides an enhanced profile for sales persons. It has features from Acumens CRM Enhancements (WW) app and Acumens Mobile Sales & Customer Portal (NW) app.",
+  "description": "The Acumens Mobile Salesman, CRM & Customer Portal solution provides an enhanced profile for sales persons. It has features from Acumens CRM Enhancements (WW) app and Acumens Mobile Sales & Customer Portal (NW) app.",
   "privacyStatement": "https://www.sbcdynamicserp.com/microsoft-dynamics-nav-bc-addons-and-extensions/",
   "EULA": "https://www.sbcdynamicserp.com/microsoft-dynamics-nav-bc-addons-and-extensions/",
   "help": "https://www.sbcdynamicserp.com/support/?crmenhancementsapp=yes",
@@ -27,13 +27,13 @@
 {
   "id": "1a61ce10-d0ec-4456-9f37-ce082407a128",
   "name": "Acumens Mobile Sales & Customer Portal (NW)",
-  "version": "26.1023.1.1",
+  "version": "26.1023.1.12",
   "publisher": "SBC Dynamics ERP"
 
 } ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "25.0.0.0",
+  "application": "26.0.0.0",
   "target": "Cloud",
   "idRanges": [
     {
